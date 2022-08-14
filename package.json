@@ -1,0 +1,15 @@
+{
+  "name": "jox567",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jiaox567/website.git",
+  "author": "jiaox567 <jiaox567@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^2.0.0-beta.49"
+  },
+  "scripts": {
+    "dev": "vuepress dev website",
+    "build": "vuepress build website"
+  }
+}
