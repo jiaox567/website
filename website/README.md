@@ -1,1 +1,7 @@
-# everyone 能 塔塔开 this website
+# Home
+
+> fuck 尤
+
+```js
+alert('sbsb');
+```
