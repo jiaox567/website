@@ -15,6 +15,16 @@ export default defineUserConfig({
     })
   ],
   theme: hopeTheme({
-    hostname: 'https://jiaox567.github.io/website'
+    hostname: 'https://jiaox567.github.io/website',
+    sidebar:[
+      {
+        text:'Home',
+        link: '/'
+      },
+      {
+        text:'114514',
+        link: '/逸一时误一世'
+      }
+    ]
   }),
 })
