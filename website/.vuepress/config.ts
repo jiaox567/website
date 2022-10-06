@@ -6,7 +6,6 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: 'everyone 能 塔塔开 this website',
   description: '123',
-  base: '/website/',
   plugins: [
     commentPlugin({
       comment: true,
@@ -15,7 +14,7 @@ export default defineUserConfig({
     })
   ],
   theme: hopeTheme({
-    hostname: 'https://jiaox567.github.io/website',
+    hostname: 'https://www.joxlol.top',
     sidebar:[
       {
         text:'Home',
